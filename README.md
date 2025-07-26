@@ -7,7 +7,7 @@
 
 <p><strong><span class="emoji">✨</span> Una aplicación web simple para organizar un sorteo de "Amigo Secreto" de manera justa y divertida.</strong></p>
 <h2><span class="emoji">🚀</span> Demo</h2>
-    <p>Puedes probar el proyecto aquí: <a href="">Enlace al Demo</a></p>
+    <p>Puedes probar el proyecto aquí: <a href="https://misaangz.github.io/Amigo-Secreto">Enlace al Demo</a></p>
     <h2><span class="emoji">📌</span> Características</h2>
     <ul>
         <li><span class="badge">✅</span> <strong>Agregar participantes</strong>: Escribe los nombres de los participantes.</li>
